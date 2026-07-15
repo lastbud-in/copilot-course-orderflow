@@ -1,0 +1,10 @@
+{
+  "name": "orderflow-starter",
+  "version": "1.0.0",
+  "description": "Internal order processing module (discounts, validation, approval routing).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "UNLICENSED"
+}

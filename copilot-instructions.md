@@ -1,4 +1,7 @@
 # Repository custom instructions for GitHub Copilot
 
-Add guidance here that should apply to every Copilot Chat conversation in
-this repository. Left intentionally minimal — filled in as a Day 1 exercise.
+When explaining code in this repository, always write for a non-technical
+business or project stakeholder unless asked otherwise. Always state any
+assumptions explicitly. When asked about a business rule, cite the exact
+Dr. Vishwanath Rao · GitHub Copilot for BA & PM — 4-Day Exercise & Lab Guide
+file and function it came from.

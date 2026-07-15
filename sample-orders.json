@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ORD-1001",
+    "date": "2026-03-14",
+    "items": [
+      { "sku": "WIDGET-A", "price": 12.5, "qty": 12 },
+      { "sku": "WIDGET-B", "price": 8.0, "qty": 10 }
+    ],
+    "promoCode": null,
+    "rushOrder": false,
+    "shippingCountry": "US",
+    "paymentTerms": "net30",
+    "customer": { "id": "C-01", "tier": "silver", "region": "US", "orderCount": 4, "riskFlag": false }
+  },
+  {
+    "id": "ORD-1002",
+    "date": "2026-12-02",
+    "items": [
+      { "sku": "WIDGET-A", "price": 12.5, "qty": 60 }
+    ],
+    "promoCode": "HOLIDAY26",
+    "rushOrder": false,
+    "shippingCountry": "DE",
+    "paymentTerms": "net30",
+    "customer": { "id": "C-02", "tier": "platinum", "region": "EU", "orderCount": 15, "riskFlag": false }
+  },
+  {
+    "id": "ORD-1003",
+    "date": "2026-06-01",
+    "items": [
+      { "sku": "WIDGET-C", "price": 200.0, "qty": 5 }
+    ],
+    "promoCode": null,
+    "rushOrder": true,
+    "shippingCountry": "US",
+    "paymentTerms": "net90",
+    "customer": { "id": "C-03", "tier": "gold", "region": "US", "orderCount": 0, "riskFlag": false }
+  },
+  {
+    "id": "ORD-1004",
+    "date": "2026-07-20",
+    "items": [
+      { "sku": "WIDGET-B", "price": 8.0, "qty": 2 }
+    ],
+    "promoCode": null,
+    "rushOrder": false,
+    "shippingCountry": "US",
+    "paymentTerms": "net30",
+    "customer": { "id": "C-04", "tier": "silver", "region": "US", "orderCount": 2, "riskFlag": true }
+  }
+]

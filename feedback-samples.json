@@ -1,0 +1,12 @@
+[
+  { "id": "FB-01", "channel": "support-ticket", "text": "My order took 9 days to ship even though I paid for standard shipping. Nobody told me it would be delayed." },
+  { "id": "FB-02", "channel": "survey", "text": "I don't understand why my discount was only 5% when the site said gold members get more. Confusing." },
+  { "id": "FB-03", "channel": "support-ticket", "text": "Return process took forever and I was charged a restocking fee I wasn't told about." },
+  { "id": "FB-04", "channel": "app-review", "text": "Great product quality, but the checkout page froze twice before my order went through." },
+  { "id": "FB-05", "channel": "survey", "text": "Wish there were more payment options, I wanted to use a different card split across two payments." },
+  { "id": "FB-06", "channel": "support-ticket", "text": "Shipping estimate said 3 days, took 8. This is the second time this month." },
+  { "id": "FB-07", "channel": "app-review", "text": "Love the loyalty program, platinum tier perks are worth it." },
+  { "id": "FB-08", "channel": "support-ticket", "text": "Refund was denied and the reason given didn't make sense to me. I returned the item within a month." },
+  { "id": "FB-09", "channel": "survey", "text": "Holiday discount was nice but stacking rules were unclear, I expected more off with my promo code." },
+  { "id": "FB-10", "channel": "app-review", "text": "Customer support was helpful but it took three emails to get a straight answer about my return." }
+]
